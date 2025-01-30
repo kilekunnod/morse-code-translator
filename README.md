@@ -1,6 +1,6 @@
 Morse Code Translator
 
-This project is a simple yet effective Morse code translator built with C, designed to convert text input into Morse code using an Arduino-based setup. The translator takes user input and displays the corresponding Morse code on an LCD screen. The project uses an LED to visually represent the dots and dashes of Morse code.
+This project is a simple yet effective Morse code translator built with C++, designed to convert text input into Morse code using an Arduino-based setup. The translator takes user input and displays the corresponding Morse code on an LCD screen. The project uses an LED to visually represent the dots and dashes of Morse code.
 
 Features:
 Text to Morse Code: Converts text input into Morse code.
